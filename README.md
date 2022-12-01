@@ -10,3 +10,8 @@ My Asteroids-like game with proper thrust physics.
 1. Open Processing IDE.
 2. Open `asteroids.pde`.
 3. Run the game.
+
+## Controls
+A, D to turn to turn left or right.
+W to thrust.
+X to shoot lasers.
