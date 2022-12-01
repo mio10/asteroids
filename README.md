@@ -12,8 +12,8 @@ My Asteroids-like game with proper thrust physics.
 3. Run the game.
 
 ## Controls
-A, D to turn to turn left or right.
+A, D keys turn left or right.
 
-W to thrust.
+W key to thrust.
 
-X to shoot lasers.
+X key to shoot lasers.
