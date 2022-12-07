@@ -12,8 +12,9 @@ My Asteroids-like game with proper thrust physics.
 ### Windows
 *(may work on Linux too but wasn't tested)*
 ```console
-$ processing-java --sketch=<path_to_asteroids_directory> --run
+$ processing-java --sketch=path/to/asteroids --run
 ```
+**Note:** `path/to/asteroids` is the directory with `asteroids.pde`
 
 ## Controls
 |Key|Action|
