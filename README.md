@@ -9,13 +9,15 @@ My Asteroids-like game with proper thrust physics.
 [Processing](https://processing.org) is required to run the game.
 
 ## Quick start
-1. Open Processing IDE.
-2. Open `asteroids.pde`.
-3. Run the game.
+### Windows
+*(may work on Linux too but wasn't tested)*
+```console
+$ processing-java --sketch=<path_to_asteroids_directory> --run
+```
 
 ## Controls
-A, D keys turn left or right.
-
-W key to thrust.
-
-X key to shoot lasers.
+|Key|Action|
+|---|---|
+|A/D|Turn left/right|
+|W|Thrust|
+|X|Shoot lasers|
