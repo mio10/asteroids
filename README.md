@@ -1,9 +1,9 @@
 # Asteroids
 
+![](preview.gif)
+
 ## Description
 My Asteroids-like game with proper thrust physics.
-
-![](./screenshot.png)
 
 ## Requirements
 [Processing](https://processing.org) is required to run the game.
